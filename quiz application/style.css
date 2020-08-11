@@ -1,0 +1,17 @@
+body{
+    background:url('img7.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: 1380px 2700px;
+  }
+.card{
+ background-color: transparent;
+ border: transparent;
+ font-size: large;
+ font-weight: 800;
+ 
+
+}
+button{
+  border: none;
+}

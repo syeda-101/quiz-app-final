@@ -1,0 +1,29 @@
+body{
+    background:url('1.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: 1380px 700px;
+  }
+.main{
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+    font-size: 28px;
+    
+
+}
+.input{
+    border-radius: 2rem;
+}
+.btn-lg{
+    border-radius: 1rem !important;
+}
+.m{
+    text-decoration: none !important;
+    
+}
+.head{
+    font-size: 36px;
+    font-weight: 700;
+
+}
